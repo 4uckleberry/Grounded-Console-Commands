@@ -28,3 +28,6 @@ Use of the Tool:
 -In game, type `` followed by CTRL+V to past in the commands then hit ENTER.
 
 Enjoy the loot and have fun smashing bugs my friends!
+
+
+Sidenote: If you don't want to use the python script and just want the console commands, they start on line 85.
