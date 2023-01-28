@@ -23,7 +23,7 @@ Use of the Tool:
 
 -Type in your desired quantity of items or leave as 1(careful when spawning a lot, especially bugs, it gets crazy)
 
--Click the "Copy to Keyboard" button, this copies the desired quantity of console commands to the clipboard
+-Click the "Copy to Clipboard" button, this copies the desired quantity of console commands to the clipboard
 
 -In game, type `` followed by CTRL+V to past in the commands then hit ENTER.
 
