@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "groundedconsole"
+version = "1.1.0"
+description = "A GUI application to generate console commands for Grounded."
+authors = [
+    "Helpful Hermit <67399789+Helpful-Hermit@users.noreply.github.com>",
+    "DJ Stomp <85457381+DJStompZone@users.noreply.github.com>"
+] 
+readme = "README.md"
+license = "MIT"
+keywords = ["grounded", "console", "commands", "gui", "tkinter"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<4.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api" 
